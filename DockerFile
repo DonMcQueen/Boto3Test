@@ -22,6 +22,8 @@ RUN chown -R appuser:appgroup /usr/src/app
 # Switch to the non-root user
 USER root
 
+# Hi Josh
+
 # Expose the port the app runs on
 EXPOSE 3000
 
