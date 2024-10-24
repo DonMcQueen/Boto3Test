@@ -1,0 +1,5 @@
+boto3
+azure-storage-blob
+azure-identity==1.7.0
+azure-mgmt-storage
+azure-mgmt-subscription

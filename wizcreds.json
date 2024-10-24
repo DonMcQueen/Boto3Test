@@ -1,6 +1,6 @@
 {	
-	"wiz_client_id":     "wgxq75hrlndpbktx3eupevf2xyfcyixkneyfyjvbmvreqbfzrkaxg",
-	"wiz_client_secret": "q1881llJteTUSqGmka9ztqengSaRpq6nHXemLwImNy5Fe1aoHeotUm98reRRCaRw",
+	"wiz_client_id":     "wgxq75hrlndpbktx3elkjslfjks98l23lk64reqbfzrkaxg",
+	"wiz_client_secret": "q1881llJteTUlksjfl489KLlksj23XemLwImNy5Fe1aoHeotUm98reRRCaRw",
     "wiz_auth_url": "https://auth.app.wiz.io/oauth/token",
     "wiz_api_url": "https://api.us20.app.wiz.io/graphql"
 }
