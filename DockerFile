@@ -22,7 +22,7 @@ RUN chown -R appuser:appgroup /usr/src/app
 # Switch to the non-root user
 USER root
 
-# Hello World
+# Hello World - Wiz Code Test
 
 # Expose the port the app runs on
 EXPOSE 3000
